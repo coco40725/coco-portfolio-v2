@@ -1,0 +1,43 @@
+{
+  "introduction": {
+    "title": "Hi~ 我是 Coco，目前擁有 2 年的 Web後端與前端開發經驗。",
+    "item1": "✔️ 對程式設計有熱情",
+    "item2": "✔️ 學習速度快、喜歡接觸新技術",
+    "item3": "✔️ 喜歡新奇的東西!"
+  },
+  "skills": "技能",
+  "nav": {
+    "home": "首頁",
+    "experience": "經歷",
+    "project": "專案"
+  },
+  "cv": "https://storage.googleapis.com/coco-app/cv-folder/Software-Engineer-zh.pdf",
+
+  "experience2": {
+    "title": "軟體工程師",
+    "desc1": "與企劃、UI/UX設計師溝通合作，理解產品需求，並評估產品的工時與階段性規劃。",
+    "desc2": "負責前端JS與後端的設計開發，採用前後端分離架構。",
+    "desc3": "後端: 主要以 Quarkus 與 Kotlin 為主。以微服務的方式進行系統建構，並透過 Cloud Build CI/CD 自動化部署在GKE上。",
+    "desc4": "前端: 主要以 Vue 3 為主，並透過 Github Actions 進行自動化部署。",
+    "company": "翰林教育科技股份有限公司"
+  },
+  "experience1": {
+    "title": "資料分析師",
+    "desc1":  "臨床資料分析",
+    "company": "長庚醫療財團法人林口長庚紀念醫院"
+  },
+
+
+  "project01": {
+      "title": "智能課表系統",
+      "desc": "建立個人化學習平台，允許學生和家長靈活安排學習計畫，並透過 Line 即時通知家長學習異常狀況，另外，系統會根據學生學習進度自動進行小考派發，有效幫助學生複習，提升學習成效。"
+  },
+  "project02": {
+      "title": "AI 英語口說教材",
+      "desc": "結合 AI 技術，自動對學生的發音進行評分，同時提供發音示範功能，提升學生口語學習效果，幫助學生更有效地學習。"
+  },
+  "project03": {
+      "title": "短網址服務",
+      "desc": "開發短網址服務與用戶服務，實現登入、網址縮短、自定義短網址、過期日設定等功能，並提供點擊統計數據。"
+  }
+}

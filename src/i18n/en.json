@@ -1,0 +1,45 @@
+{
+  "introduction": {
+    "title": "Hi~ I'm Coco, currently have 2 years of experience in Web backend and frontend development.",
+    "item1": "✔️ Passionate about programming",
+    "item2": "✔️ Fast learner, love to learn new technologies",
+    "item3": "✔️ Love new things!"
+  },
+  "skills": "Skills",
+  "nav": {
+    "home": "Home",
+    "experience": "Experience",
+    "project": "Project"
+  },
+
+  "cv": "https://storage.googleapis.com/coco-app/cv-folder/Software-Engineer-en.pdf",
+
+  "experience2": {
+    "title": "Software Engineer (Developer)",
+    "desc1": "Collaborated with project managers and UI/UX designers to understand product requirements and estimate project timelines and milestones.",
+    "desc2": "Designed and developed both front-end and back-end systems, using a decoupled architecture.",
+    "desc3": "Back-end: Primarily utilized Quarkus and Kotlin. Built microservices-based systems and deployed them on GKE using Cloud Build CI/CD for automated deployment.",
+    "desc4": "Front-end: Primarily utilized Vue 3. Implemented automated deployment through Github Actions.",
+    "company": "HanLin Education Technologies CO., LTD"
+  },
+  "experience1": {
+    "title": "Data analyst",
+    "desc1":  "Clinical Data Analysis",
+    "company": "Linkou Chang Gung Memorial Hospital"
+  },
+
+
+  "project01": {
+    "title": "Intelligent Scheduling System",
+    "desc": "Personalized learning platform with Line notifications for parents. Automated quizzes boost learning outcomes."
+  },
+  "project02": {
+      "title": "AI English Speaking Material",
+      "desc": "AI-powered pronunciation scoring and feedback enhance oral learning."
+  },
+  "project03": {
+      "title": "URL Shortener",
+      "desc": "User-friendly platform for creating and managing custom short URLs with click analytics."
+  }
+}
+
