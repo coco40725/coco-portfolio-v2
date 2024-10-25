@@ -27,4 +27,4 @@ jobs:
         - run: mkdir -p key
         - run: echo -n '${{ secrets.GCS_CREDENTIALS }}' > ./key/gcp-credentials.json
         - run: npm install
-        - run: npm run deployTest
+        - run: npm run deployProd
