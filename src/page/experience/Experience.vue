@@ -24,7 +24,7 @@ const experience = [
 </script>
 
 <template lang="pug">
-section(class="container mx-auto xl:h-screen h-full xl:pt-0 pt-10")
+section(class="container mx-auto xl:h-screen h-full xl:pt-0 pt-10" data-aos='fade-right' data-aos-delay='100'  data-aos-anchor-placement="top-center")
     h1(class="h1 text-center pb-20 font-thin tracking-tight text-accent") {{ $t("nav.experience") }}
     div(class="border-b border-neutral-800")
         ul.timeline

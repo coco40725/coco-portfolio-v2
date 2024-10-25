@@ -28,7 +28,7 @@ section(class="xl:h-screen pt-32 h-full")
             // photo
             Photo
         // skill
-        Skill
+        Skill(data-aos='zoom-in' data-aos-delay='300')
 
 </template>
 

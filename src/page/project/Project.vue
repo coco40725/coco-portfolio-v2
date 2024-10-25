@@ -64,7 +64,7 @@ const changeProject = (operation: number) => {
 </script>
 
 <template lang="pug">
-section(class="container mx-auto xl:h-screen h-full")
+section(class="container mx-auto xl:h-screen h-full" data-aos='fade-left' data-aos-delay='100'  data-aos-anchor-placement="top-bottom")
     h1(class="h1 text-center pb-20 font-thin tracking-tight text-accent") {{ $t("nav.project") }}
     div(class="flex flex-col xl:flex-row xl:gap-[30px]")
         div(class="w-full xl:w-[50%] xl:h-[460px] flex flex-col xl:justify-between order-2 xl:order-none")
